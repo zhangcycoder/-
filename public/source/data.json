@@ -1,0 +1,307 @@
+[
+    {
+    "shoppname": "华莱士炸鸡",
+    "image":"https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1534422690,1120432942&fm=26&gp=0.jpg",
+    "id": 1,
+    "menu": [
+    {
+    "name": "单人精品套餐"
+    },
+    {
+    "name": "双人精品套餐"
+    },
+    {
+    "name": "三人精品套餐"
+    }
+    ],
+    "dishes": [
+    {
+    "image": "https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3125464840,3044799355&fm=26&gp=0.jpg",
+    "title": "皮蛋瘦肉粥",
+    "flavor": "咸味",
+    "volume": "月销229份",
+    "price": 12,
+    "index": 0
+    },
+    {
+    "image":"https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3244966408,957788761&fm=26&gp=0.jpg",
+    "title": "扁豆焖面",
+    "flavor": "",
+    "volume": "月销29份",
+    "price": 14,
+    "index": 0
+    },
+    {
+    "image":"https://dss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2150777454,3130959978&fm=26&gp=0.jpg",
+    "title": "葱花饼",
+    "flavor": "",
+    "volume": "月销229份",
+    "price": 10,
+    "index": 0
+    },
+    {
+    "image":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1851046772,1532392127&fm=26&gp=0.jpg",
+    "title": "牛肉馅饼",
+    "flavor": "",
+    "volume": "月销29份",
+    "price": 5,
+    "index": 0
+    }
+    ]
+    },
+    
+    {
+    "shoppname": "德克士（元通店）",
+    "image":"https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=471727640,910815159&fm=26&gp=0.jpg",
+    "id": 2,
+    "menu": [
+        {
+        "name": "单人精品套餐"
+        },
+        {
+        "name": "双人精品套餐"
+        },
+        {
+        "name": "三人精品套餐"
+        }
+        ],
+        "dishes": [
+        {
+        "image":"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2783411178,1068360022&fm=26&gp=0.jpg",
+        "title": "蛋糕",
+        "flavor": "咸味",
+        "volume": "月销229份",
+        "price": 12,
+        "index": 0
+        },
+        {
+        "image":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=401653252,3227768039&fm=26&gp=0.jpg",
+        "title": "意大利面",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 14,
+        "index": 0
+        },
+        {
+        "image":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=4108734193,1197706026&fm=26&gp=0.jpg",
+        "title": "牛肉披萨",
+        "flavor": "",
+        "volume": "月销229份",
+        "price": 10,
+        "index": 0
+        },
+        {
+        "image":"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1604898507,3212651357&fm=26&gp=0.jpg",
+        "title": "羊腿",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 5,
+        "index": 0
+        }
+        ]
+    },
+
+    {
+    "shoppname": "米多面多（须水店）",
+    "image":"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3651983655,1506551273&fm=26&gp=0.jpg",
+    "id": 3,
+    "menu": [
+        {
+        "name": "单人精品套餐"
+        },
+        {
+        "name": "双人精品套餐"
+        },
+        {
+        "name": "三人精品套餐"
+        }
+        ],
+        "dishes": [
+        {
+        "image":"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=361252974,565202396&fm=26&gp=0.jpg",
+        "title": "烧鸡",
+        "flavor": "咸味",
+        "volume": "月销229份",
+        "price": 12,
+        "index": 0
+        },
+        {
+        "image":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2514257278,1983004782&fm=26&gp=0.jpg",
+        "title": "炒河粉",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 14,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "葱花饼",
+        "flavor": "",
+        "volume": "月销229份",
+        "price": 10,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "牛肉馅饼",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 5,
+        "index": 0
+        }
+        ]
+    },
+
+    {
+    "shoppname": "美食美味黄焖鸡米饭(元通店)",
+    "image":"https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2637483080,4166335719&fm=26&gp=0.jpg",
+    "id": 4,
+    "menu": [
+        {
+        "name": "单人精品套餐"
+        },
+        {
+        "name": "双人精品套餐"
+        },
+        {
+        "name": "三人精品套餐"
+        }
+        ],
+        "dishes": [
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "皮蛋瘦肉粥",
+        "flavor": "咸味",
+        "volume": "月销229份",
+        "price": 12,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "扁豆焖面",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 14,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "葱花饼",
+        "flavor": "",
+        "volume": "月销229份",
+        "price": 10,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "牛肉馅饼",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 5,
+        "index": 0
+        }
+        ]
+    },
+
+    {
+    "shoppname": "五谷渔粉(元通纺织城店)",
+    "image":"https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1924785735,1385054983&fm=26&gp=0.jpg",
+    "id": 5,
+    "menu": [
+        {
+        "name": "单人精品套餐"
+        },
+        {
+        "name": "双人精品套餐"
+        },
+        {
+        "name": "三人精品套餐"
+        }
+        ],
+        "dishes": [
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "皮蛋瘦肉粥",
+        "flavor": "咸味",
+        "volume": "月销229份",
+        "price": 12,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "扁豆焖面",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 14,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "葱花饼",
+        "flavor": "",
+        "volume": "月销229份",
+        "price": 10,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "牛肉馅饼",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 5,
+        "index": 0
+        }
+        ]
+    },
+
+    {
+    "shoppname": "张杏擀面皮(元通店)",
+    "image":"https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2886680539,2393244650&fm=15&gp=0.jpg",
+    "id": 6,
+    "menu": [
+        {
+        "name": "单人精品套餐"
+        },
+        {
+        "name": "双人精品套餐"
+        },
+        {
+        "name": "三人精品套餐"
+        }
+        ],
+        "dishes": [
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "皮蛋瘦肉粥",
+        "flavor": "咸味",
+        "volume": "月销229份",
+        "price": 12,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "扁豆焖面",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 14,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "葱花饼",
+        "flavor": "",
+        "volume": "月销229份",
+        "price": 10,
+        "index": 0
+        },
+        {
+        "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575696873565&di=c19473f0d06684ba64ed43711bc3fe8c&imgtype=0&src=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2F1920_1080%2F1008%2F1920_1080_20100803104533777437.jpg",
+        "title": "牛肉馅饼",
+        "flavor": "",
+        "volume": "月销29份",
+        "price": 5,
+        "index": 0
+        }
+        ]
+    }
+    ]
